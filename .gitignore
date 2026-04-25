@@ -1,6 +1,2 @@
-
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
-__pycache__/  *.pyc  .elasticbeanstalk/  .ebextensions/ 
+__pycache__/ 
+*.pyc 
